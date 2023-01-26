@@ -4,12 +4,21 @@
 
 The **Chart Widget** allows websites to display an embedded trading chart for any pool supported by [DEXTools.io](www.dextools.io) app. Chart data is updated in real-time, including the current price in USD.
 
+
+<img src="https://user-images.githubusercontent.com/4454927/214917462-8fe2e9d5-e20a-428a-8771-f557457bb7a9.jpg" width="400">
+
+
+
 ## Get your pool/token iframe widget code
 
-First search your favorite token or pool by address, name... using the [DEXTools search bar](https://www.dextools.io/app/).
+1) First search your favorite token or pool by address, name... using the [DEXTools search bar](https://www.dextools.io/app/).
 
-Then click the **share** option of the [DEXTools pair explorer](https://www.dextools.io/app/en/ether/pair-explorer/0xa29fe6ef9592b5d408cca961d0fb9b1faf497d6d), a pop-up will appear with the code to copy.
+<img src="https://user-images.githubusercontent.com/4454927/214916772-39721553-5518-4441-9c5c-49c8283141e6.jpg" width="400">
 
+
+2) Then click the **share** option of the [DEXTools pair explorer](https://www.dextools.io/app/en/ether/pair-explorer/0xa29fe6ef9592b5d408cca961d0fb9b1faf497d6d), a pop-up will appear with the code to copy.
+
+<img src="https://user-images.githubusercontent.com/4454927/214918425-85d61426-cd1d-4896-9ea0-01691e8a5f92.jpg" width="400">
 
 
 ## Quick Example
