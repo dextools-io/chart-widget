@@ -71,7 +71,7 @@ We add support for new blockchains frequently. This is the current list of avail
 | Blockchain   | ID            |
 | ------------ | ------------- |
 | ETHEREUM     |  ether        |
-| BNB          |  bsc          |
+| BNB          |  bnb          |
 | POLYGON      |  polygon      |
 | FANTOM       |  fantom       |
 | CRONOS       |  cronos       |
@@ -90,7 +90,7 @@ We add support for new blockchains frequently. This is the current list of avail
 | HARMONY      |  harmony      |
 | FUSE         |  fuse         |
 | HECO         |  heco         |
-| OEC          |  oec          |
+| OKC          |  okc          |
 | ASTAR        |  astar        |
 | KLAYTN       |  klaytn       |
 | IOTEX        |  iotex        |
@@ -134,5 +134,5 @@ We add support for new blockchains frequently. This is the current list of avail
 | SX           |  sx           |
 | ALVEY        |  alvey        |
 | APTOS        |  aptos        |
-| MULTIVERSX   |  elrond       |
+| MULTIVERSX   |  multiversx   |
 
