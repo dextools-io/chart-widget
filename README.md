@@ -135,4 +135,8 @@ We add support for new blockchains frequently. This is the current list of avail
 | ALVEY        |  alvey        |
 | APTOS        |  aptos        |
 | MULTIVERSX   |  multiversx   |
-
+| ProofOfMemes |  pom          |
+| EXOSAMA      |  exosama      |
+| ENERGI       |  energi       |
+| GOERLI       |  ethergoerli  |
+| CORE DAO     |  coredao      |
