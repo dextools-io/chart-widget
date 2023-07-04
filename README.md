@@ -38,21 +38,27 @@ A iframe based integration example follows:
    <iframe id="dextools-widget"
     title="DEXTools Trading Chart"
     width="500"
-    height="400" src="https://www.dextools.io/widgets/en/ether/pe-light/0xa29fe6ef9592b5d408cca961d0fb9b1faf497d6d?theme=light&chartType=2&chartResolution=30&drawingToolbars=false"></iframe>
+    height="400" src="https://www.dextools.io/widget-chart/en/ether/pe-light/0xa29fe6ef9592b5d408cca961d0fb9b1faf497d6d?theme=light&chartType=2&chartResolution=30&drawingToolbars=false"></iframe>
 
 </body>
 </html>
 
 ```
 
+## Common issues and testing
 
+You can test if the IFrame integration works properly with the https://iframetester.com/ tool.
+
+In case of errors showing a Chart in your website, please check your CSP policy for IFrame content https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
+
+Please be aware that USE OF CHART WIDGET IFRAME FROM **localhost** WON'T WORK, please use a real domain instead.
 
 ## Customization options
 
 The widget is configured adjusting following parts and query parameters of this URL:
 
 ```
-https://www.dextools.io/widgets/en/<chainId>/pe-light/<pairAddress>?theme=<theme>&chartType=<chartType>&chartResolution=<chartResolution>&drawingToolbars=<drawingToolbars>
+https://www.dextools.io/widget-chart/en/<chainId>/pe-light/<pairAddress>?theme=<theme>&chartType=<chartType>&chartResolution=<chartResolution>&drawingToolbars=<drawingToolbars>
 ```
 
 | Parameter       | Values                                                      |
