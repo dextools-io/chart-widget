@@ -8,6 +8,8 @@ The **Chart Widget** allows websites to display an embedded trading chart for an
 <img src="https://user-images.githubusercontent.com/4454927/214917462-8fe2e9d5-e20a-428a-8771-f557457bb7a9.jpg" width="400" alt="widget screenshot">
 
 
+Chart display is provided by [TradingView](https://www.tradingview.com/)
+
 
 ## Get your pool/token iframe widget code
 
