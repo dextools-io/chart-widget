@@ -5,7 +5,7 @@
 The **Chart Widget** allows websites to display an embedded trading chart for any pool supported by [DEXTools.io](https://www.dextools.io) app. Chart data is updated in real-time, including the current price in USD.
 
 
-<img src="https://user-images.githubusercontent.com/4454927/214917462-8fe2e9d5-e20a-428a-8771-f557457bb7a9.jpg" width="400" alt="widget screenshot">
+<img src="https://user-images.githubusercontent.com/5698318/290871207-2c2d4ccf-b4fb-449e-a0a1-1653dee423c8.png" width="400" alt="widget screenshot">
 
 
 Chart display is provided by [TradingView](https://www.tradingview.com/)
