@@ -164,3 +164,10 @@ We add support for new blockchains frequently. This is the current list of avail
 | OPBNB            | opbnb        |
 | SHIBARIUM        | shib         |
 | STARKNET         | starknet     |
+| SCROLL           | scroll       |
+| MANTA            | manta        |
+| KUJIRA           | kujira       |
+| BLAST            | blast        |
+| BITTORRENT       | bittorrent   |
+| OSMOSIS          | osmosis      |
+| X LAYER          | xlayer       |
