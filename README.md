@@ -25,7 +25,7 @@ Chart display is provided by [TradingView](https://www.tradingview.com/)
 
 ## Quick Example
 
-A iframe based integration example follows:
+An iframe based integration example follows:
 
 ```html
 <!DOCTYPE html>
@@ -171,3 +171,8 @@ We add support for new blockchains frequently. This is the current list of avail
 | BITTORRENT       | bittorrent   |
 | OSMOSIS          | osmosis      |
 | X LAYER          | xlayer       |
+| SHIMMEREVM       | shimmer      |
+| MODE             | mode         |
+| TON              | ton          |
+| HEDERA           | hedera       |
+| NEAR             | near         |
