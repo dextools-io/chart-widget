@@ -176,3 +176,4 @@ We add support for new blockchains frequently. This is the current list of avail
 | TON                        | ton          |
 | HEDERA                     | hedera       |
 | NEAR                       | near         |
+| TRON                       | tron         |
