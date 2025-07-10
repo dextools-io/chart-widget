@@ -177,3 +177,36 @@ We add support for new blockchains frequently. This is the current list of avail
 | HEDERA                     | hedera       |
 | NEAR                       | near         |
 | TRON                       | tron         |
+| BITLAYER                   | bitlayer     |
+| ZKLINK NOVA                | zklinknova   |
+| APE CHAIN                  | apechain     |
+| ELYSIUM                    | elysium      |
+| ZKFAIR                     | zkfair       |
+| CRONOS-ZKEVM               | cronoszkevm  |
+| IOTA-EVM                   | iotaevm      |
+| WORLD CHAIN                | worldchain   |
+| CHILIZ                     | chiliz       |
+| ICP                        | icp          |
+| XRPL                       | xrpl         |
+| SONIC                      | sonic        |
+| INK                        | ink          |
+| XDC                        | xdc          |
+| ABSTRACT                   | abstract     |
+| PAW CHAIN                  | pawchain     |
+| BERA CHAIN                 | berachain    |
+| UNI CHAIN                  | unichain     |
+| UNIT ZERO                  | units        |
+| SONEIUM                    | soneium      |
+| HYPER EVM                  | hyperevm     |
+| SUI                        | sui          |
+| VSC                        | vsc          |
+| STORY                      | story        |
+| ODYSSEY                    | odyssey      |
+| GRAVITY ALPHA              | gravityalpha |
+| SHIDO                      | shido        |
+| SUPERSEED                  | superseed    |
+| SOPHON                     | sophon       |
+| ETHERLINK                  | etherlink    |
+| U2U                        | utwou        |
+| VICTION                    | viction      |
+| ULTRON                     | ultron       |
