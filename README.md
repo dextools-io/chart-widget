@@ -100,7 +100,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | AURORA                     | aurora       |
 | MOONBEAM                   | moonbeam     |
 | MOONRIVER                  | moonriver    |
-| HARMONY                    | harmony      |
 | FUSE                       | fuse         |
 | HECO                       | heco         |
 | OKTC (FORMER OEC)          | oktc         |
@@ -118,7 +117,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | CANTO                      | canto        |
 | FLARE                      | flare        |
 | ARBITRUM NOVA              | arbitrumnova |
-| REDLIGHT                   | redlight     |
 | CONFLUX                    | conflux      |
 | SMARTBCH                   | smartbch     |
 | KARDIA                     | kardia       |
@@ -126,24 +124,18 @@ We add support for new blockchains frequently. This is the current list of avail
 | WAN                        | wan          |
 | BOBA                       | boba         |
 | ELASTOS                    | elastos      |
-| NOVA                       | nova         |
-| HOO                        | hoo          |
 | SHIDEN                     | shiden       |
 | FUSION                     | fusion       |
 | RSK                        | rsk          |
-| CUBE                       | cube         |
 | SYSCOIN                    | syscoin      |
 | KAVA                       | kava         |
 | THUNDERCORE                | thundercore  |
-| ECHELON                    | echelon      |
 | METER                      | meter        |
-| KEK                        | kek          |
 | TOMO                       | tomo         |
 | RONIN                      | ronin        |
 | SHIB                       | shib         |
 | ETHEREUM POW               | ethw         |
 | DIS (FORMER ETHEREUM FAIR) | dis          |
-| MUU                        | muu          |
 | SX                         | sx           |
 | ALVEY                      | alvey        |
 | APTOS                      | aptos        |
