@@ -189,6 +189,5 @@ We add support for new blockchains frequently. This is the current list of avail
 | SOPHON                     | sophon       |
 | ETHERLINK                  | etherlink    |
 | U2U                        | utwou        |
-| VICTION                    | viction      |
 | ULTRON                     | ultron       |
 | NIBIRU                     | nibiruevm    |
