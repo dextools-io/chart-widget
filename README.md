@@ -101,10 +101,8 @@ We add support for new blockchains frequently. This is the current list of avail
 | MOONBEAM                   | moonbeam     |
 | MOONRIVER                  | moonriver    |
 | FUSE                       | fuse         |
-| HECO                       | heco         |
 | OKTC (FORMER OEC)          | oktc         |
-| ASTAR                      | astar        |
-| KLAYTN                     | klaytn       |
+| KAIA                       | kaia         |
 | IOTEX                      | iotex        |
 | MILKOMEDA                  | milkomeda    |
 | AVAX DFK                   | dfk          |
@@ -118,30 +116,22 @@ We add support for new blockchains frequently. This is the current list of avail
 | FLARE                      | flare        |
 | ARBITRUM NOVA              | arbitrumnova |
 | CONFLUX                    | conflux      |
-| SMARTBCH                   | smartbch     |
 | KARDIA                     | kardia       |
-| TOMB                       | tomb         |
 | WAN                        | wan          |
 | BOBA                       | boba         |
 | ELASTOS                    | elastos      |
-| SHIDEN                     | shiden       |
-| FUSION                     | fusion       |
 | RSK                        | rsk          |
 | SYSCOIN                    | syscoin      |
 | KAVA                       | kava         |
-| THUNDERCORE                | thundercore  |
 | METER                      | meter        |
-| TOMO                       | tomo         |
+| VICTION                    | viction      |
 | RONIN                      | ronin        |
 | SHIB                       | shib         |
 | ETHEREUM POW               | ethw         |
-| DIS (FORMER ETHEREUM FAIR) | dis          |
-| SX                         | sx           |
 | ALVEY                      | alvey        |
 | APTOS                      | aptos        |
 | MULTIVERSX (FORMER ELROND) | multiversx   |
 | PROOF OF MEMES             | pom          |
-| EXOSAMA                    | exosama      |
 | ENERGI                     | energi       |
 | GOERLI                     | ethergoerli  |
 | CORE DAO                   | coredao      |
@@ -170,7 +160,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | NEAR                       | near         |
 | TRON                       | tron         |
 | BITLAYER                   | bitlayer     |
-| ZKLINK NOVA                | zklinknova   |
 | APE CHAIN                  | apechain     |
 | ELYSIUM                    | elysium      |
 | ZKFAIR                     | zkfair       |
@@ -202,3 +191,4 @@ We add support for new blockchains frequently. This is the current list of avail
 | U2U                        | utwou        |
 | VICTION                    | viction      |
 | ULTRON                     | ultron       |
+| NIBIRU                     | nibiruevm    |
