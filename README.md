@@ -116,12 +116,9 @@ We add support for new blockchains frequently. This is the current list of avail
 | FLARE                      | flare        |
 | ARBITRUM NOVA              | arbitrumnova |
 | CONFLUX                    | conflux      |
-| KARDIA                     | kardia       |
 | WAN                        | wan          |
 | BOBA                       | boba         |
 | ELASTOS                    | elastos      |
-| RSK                        | rsk          |
-| SYSCOIN                    | syscoin      |
 | KAVA                       | kava         |
 | METER                      | meter        |
 | VICTION                    | viction      |
@@ -133,7 +130,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | MULTIVERSX (FORMER ELROND) | multiversx   |
 | PROOF OF MEMES             | pom          |
 | ENERGI                     | energi       |
-| GOERLI                     | ethergoerli  |
 | CORE DAO                   | coredao      |
 | FILECOIN                   | filecoin     |
 | ZKSYNC                     | zksync       |
@@ -162,7 +158,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | BITLAYER                   | bitlayer     |
 | APE CHAIN                  | apechain     |
 | ELYSIUM                    | elysium      |
-| ZKFAIR                     | zkfair       |
 | CRONOS-ZKEVM               | cronoszkevm  |
 | IOTA-EVM                   | iotaevm      |
 | WORLD CHAIN                | worldchain   |
