@@ -104,10 +104,8 @@ We add support for new blockchains frequently. This is the current list of avail
 | OKTC (FORMER OEC)          | oktc         |
 | KAIA                       | kaia         |
 | IOTEX                      | iotex        |
-| MILKOMEDA                  | milkomeda    |
 | AVAX DFK                   | dfk          |
 | SOLANA                     | solana       |
-| EVMOS                      | evmos        |
 | DOGE CHAIN                 | dogechain    |
 | ETHEREUM CLASSIC           | etc          |
 | GNOSIS                     | gnosis       |
@@ -116,11 +114,9 @@ We add support for new blockchains frequently. This is the current list of avail
 | FLARE                      | flare        |
 | ARBITRUM NOVA              | arbitrumnova |
 | CONFLUX                    | conflux      |
-| WAN                        | wan          |
 | BOBA                       | boba         |
 | ELASTOS                    | elastos      |
 | KAVA                       | kava         |
-| METER                      | meter        |
 | VICTION                    | viction      |
 | RONIN                      | ronin        |
 | SHIB                       | shib         |
@@ -181,7 +177,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | GRAVITY ALPHA              | gravityalpha |
 | SHIDO                      | shido        |
 | SUPERSEED                  | superseed    |
-| SOPHON                     | sophon       |
 | ETHERLINK                  | etherlink    |
 | U2U                        | utwou        |
 | ULTRON                     | ultron       |
