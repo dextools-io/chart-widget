@@ -168,6 +168,7 @@ We add support for new blockchains frequently. This is the current list of avail
 | UNIT ZERO                  | units        |
 | SONEIUM                    | soneium      |
 | HYPER EVM                  | hyperevm     |
+| SUI                        | sui          |
 | VSC                        | vsc          |
 | STORY                      | story        |
 | ODYSSEY                    | odyssey      |
