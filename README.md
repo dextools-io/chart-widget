@@ -103,7 +103,7 @@ We add support for new blockchains frequently. This is the current list of avail
 | OKTC (FORMER OEC)          | oktc         |
 | KAIA                       | kaia         |
 | IOTEX                      | iotex        |
-| SIU                        | siu          |
+| SEI                        | sei          |
 | AVAX DFK                   | dfk          |
 | SOLANA                     | solana       |
 | DOGE CHAIN                 | dogechain    |
@@ -168,7 +168,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | UNIT ZERO                  | units        |
 | SONEIUM                    | soneium      |
 | HYPER EVM                  | hyperevm     |
-| SUI                        | sui          |
 | VSC                        | vsc          |
 | STORY                      | story        |
 | ODYSSEY                    | odyssey      |
