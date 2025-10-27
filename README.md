@@ -89,7 +89,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | FANTOM                     | fantom       |
 | CRONOS                     | cronos       |
 | AVALANCHE                  | avalanche    |
-| VELAS                      | velas        |
 | KCC                        | kucoin       |
 | METIS                      | metis        |
 | OPTIMISM                   | optimism     |
@@ -98,18 +97,15 @@ We add support for new blockchains frequently. This is the current list of avail
 | TELOS                      | telos        |
 | AURORA                     | aurora       |
 | MOONBEAM                   | moonbeam     |
-| MOONRIVER                  | moonriver    |
 | FUSE                       | fuse         |
 | OKTC (FORMER OEC)          | oktc         |
 | KAIA                       | kaia         |
 | IOTEX                      | iotex        |
 | SEI                        | sei          |
-| AVAX DFK                   | dfk          |
 | SOLANA                     | solana       |
 | DOGE CHAIN                 | dogechain    |
 | ETHEREUM CLASSIC           | etc          |
 | GNOSIS                     | gnosis       |
-| BITGERT                    | bitgert      |
 | CANTO                      | canto        |
 | FLARE                      | flare        |
 | ARBITRUM NOVA              | arbitrumnova |
@@ -143,7 +139,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | BLAST                      | blast        |
 | OSMOSIS                    | osmosis      |
 | X LAYER                    | xlayer       |
-| SHIMMEREVM                 | shimmer      |
 | MODE                       | mode         |
 | TON                        | ton          |
 | HEDERA                     | hedera       |
