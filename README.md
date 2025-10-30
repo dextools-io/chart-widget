@@ -174,3 +174,5 @@ We add support for new blockchains frequently. This is the current list of avail
 | U2U                        | utwou        |
 | ULTRON                     | ultron       |
 | NIBIRU                     | nibiruevm    |
+| PLASMA                     | plasma       |
+| QUBIC                      | qubic        |
