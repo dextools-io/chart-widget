@@ -95,12 +95,10 @@ We add support for new blockchains frequently. This is the current list of avail
 | ARBITRUM                   | arbitrum     |
 | CELO                       | celo         |
 | TELOS                      | telos        |
-| AURORA                     | aurora       |
 | MOONBEAM                   | moonbeam     |
 | FUSE                       | fuse         |
 | OKTC (FORMER OEC)          | oktc         |
 | KAIA                       | kaia         |
-| IOTEX                      | iotex        |
 | SEI                        | sei          |
 | SOLANA                     | solana       |
 | DOGE CHAIN                 | dogechain    |
@@ -114,7 +112,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | KAVA                       | kava         |
 | VICTION                    | viction      |
 | RONIN                      | ronin        |
-| SHIB                       | shib         |
 | ETHEREUM POW               | ethw         |
 | ALVEY                      | alvey        |
 | APTOS                      | aptos        |
@@ -122,7 +119,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | PROOF OF MEMES             | pom          |
 | ENERGI                     | energi       |
 | CORE DAO                   | coredao      |
-| FILECOIN                   | filecoin     |
 | ZKSYNC                     | zksync       |
 | POLYGON-ZKEVM              | polygonzkevm |
 | PULSE                      | pulse        |
@@ -132,7 +128,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | BITROCK                    | bitrock      |
 | OPBNB                      | opbnb        |
 | SHIBARIUM                  | shib         |
-| STARKNET                   | starknet     |
 | SCROLL                     | scroll       |
 | MANTA                      | manta        |
 | KUJIRA                     | kujira       |
