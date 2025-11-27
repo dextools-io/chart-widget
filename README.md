@@ -89,7 +89,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | FANTOM                     | fantom       |
 | CRONOS                     | cronos       |
 | AVALANCHE                  | avalanche    |
-| KCC                        | kucoin       |
 | METIS                      | metis        |
 | OPTIMISM                   | optimism     |
 | ARBITRUM                   | arbitrum     |
@@ -102,7 +101,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | SEI                        | sei          |
 | SOLANA                     | solana       |
 | DOGE CHAIN                 | dogechain    |
-| ETHEREUM CLASSIC           | etc          |
 | GNOSIS                     | gnosis       |
 | CANTO                      | canto        |
 | FLARE                      | flare        |
@@ -110,9 +108,7 @@ We add support for new blockchains frequently. This is the current list of avail
 | CONFLUX                    | conflux      |
 | ELASTOS                    | elastos      |
 | KAVA                       | kava         |
-| VICTION                    | viction      |
 | RONIN                      | ronin        |
-| ETHEREUM POW               | ethw         |
 | ALVEY                      | alvey        |
 | APTOS                      | aptos        |
 | MULTIVERSX (FORMER ELROND) | multiversx   |
@@ -167,7 +163,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | SUPERSEED                  | superseed    |
 | ETHERLINK                  | etherlink    |
 | U2U                        | utwou        |
-| ULTRON                     | ultron       |
 | NIBIRU                     | nibiruevm    |
 | PLASMA                     | plasma       |
 | QUBIC                      | qubic        |
