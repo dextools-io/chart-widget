@@ -93,7 +93,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | OPTIMISM                   | optimism     |
 | ARBITRUM                   | arbitrum     |
 | CELO                       | celo         |
-| TELOS                      | telos        |
 | FUSE                       | fuse         |
 | OKTC (FORMER OEC)          | oktc         |
 | KAIA                       | kaia         |
@@ -103,21 +102,16 @@ We add support for new blockchains frequently. This is the current list of avail
 | GNOSIS                     | gnosis       |
 | FLARE                      | flare        |
 | ARBITRUM NOVA              | arbitrumnova |
-| CONFLUX                    | conflux      |
-| ELASTOS                    | elastos      |
 | KAVA                       | kava         |
 | RONIN                      | ronin        |
 | APTOS                      | aptos        |
-| MULTIVERSX (FORMER ELROND) | multiversx   |
 | PROOF OF MEMES             | pom          |
-| ENERGI                     | energi       |
 | ZKSYNC                     | zksync       |
 | POLYGON-ZKEVM              | polygonzkevm |
 | PULSE                      | pulse        |
 | LINEA                      | linea        |
 | BASE                       | base         |
 | MANTLE                     | mantle       |
-| OPBNB                      | opbnb        |
 | SHIBARIUM                  | shib         |
 | SCROLL                     | scroll       |
 | MANTA                      | manta        |
