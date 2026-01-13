@@ -155,3 +155,4 @@ We add support for new blockchains frequently. This is the current list of avail
 | NIBIRU                     | nibiruevm    |
 | PLASMA                     | plasma       |
 | QUBIC                      | qubic        |
+| KROWN                      | krown        |
