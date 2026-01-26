@@ -81,78 +81,78 @@ https://www.dextools.io/widget-chart/en/<chainId>/pe-light/<pairAddress>?theme=<
 
 We add support for new blockchains frequently. This is the current list of available blockchains:
 
-| Blockchain                 | ID           |
-|----------------------------|--------------|
-| ETHEREUM                   | ether        |
-| BNB                        | bnb          |
-| POLYGON                    | polygon      |
-| FANTOM                     | fantom       |
-| CRONOS                     | cronos       |
-| AVALANCHE                  | avalanche    |
-| METIS                      | metis        |
-| OPTIMISM                   | optimism     |
-| ARBITRUM                   | arbitrum     |
-| CELO                       | celo         |
-| FUSE                       | fuse         |
-| OKTC (FORMER OEC)          | oktc         |
-| KAIA                       | kaia         |
-| SEI                        | sei          |
-| SOLANA                     | solana       |
-| DOGE CHAIN                 | dogechain    |
-| GNOSIS                     | gnosis       |
-| FLARE                      | flare        |
-| ARBITRUM NOVA              | arbitrumnova |
-| KAVA                       | kava         |
-| RONIN                      | ronin        |
-| APTOS                      | aptos        |
-| PROOF OF MEMES             | pom          |
-| ZKSYNC                     | zksync       |
-| POLYGON-ZKEVM              | polygonzkevm |
-| PULSE                      | pulse        |
-| LINEA                      | linea        |
-| BASE                       | base         |
-| MANTLE                     | mantle       |
-| SHIBARIUM                  | shib         |
-| SCROLL                     | scroll       |
-| MANTA                      | manta        |
-| KUJIRA                     | kujira       |
-| BLAST                      | blast        |
-| OSMOSIS                    | osmosis      |
-| X LAYER                    | xlayer       |
-| MODE                       | mode         |
-| TON                        | ton          |
-| HEDERA                     | hedera       |
-| NEAR                       | near         |
-| TRON                       | tron         |
-| BITLAYER                   | bitlayer     |
-| APE CHAIN                  | apechain     |
-| ELYSIUM                    | elysium      |
-| CRONOS-ZKEVM               | cronoszkevm  |
-| IOTA-EVM                   | iotaevm      |
-| WORLD CHAIN                | worldchain   |
-| CHILIZ                     | chiliz       |
-| ICP                        | icp          |
-| XRPL                       | xrpl         |
-| SONIC                      | sonic        |
-| INK                        | ink          |
-| XDC                        | xdc          |
-| ABSTRACT                   | abstract     |
-| PAW CHAIN                  | pawchain     |
-| BERA CHAIN                 | berachain    |
-| UNI CHAIN                  | unichain     |
-| UNIT ZERO                  | units        |
-| SONEIUM                    | soneium      |
-| HYPER EVM                  | hyperevm     |
-| SUI                        | sui          |
-| VSC                        | vsc          |
-| STORY                      | story        |
-| ODYSSEY                    | odyssey      |
-| GRAVITY ALPHA              | gravityalpha |
-| SHIDO                      | shido        |
-| SUPERSEED                  | superseed    |
-| ETHERLINK                  | etherlink    |
-| U2U                        | utwou        |
-| NIBIRU                     | nibiruevm    |
-| PLASMA                     | plasma       |
-| QUBIC                      | qubic        |
-| KROWN                      | krown        |
+| Blockchain | ID |
+| :--- | :--- |
+| SOLANA | solana |
+| ETHEREUM | ether |
+| BNB | bnb |
+| BASE | base |
+| POLYGON | polygon |
+| PULSE | pulse |
+| TON | ton |
+| ARBITRUM | arbitrum |
+| AVALANCHE | avalanche |
+| MONAD | monad |
+| RONIN | ronin |
+| SUI | sui |
+| SONIC | sonic |
+| TRON | tron |
+| CRONOS | cronos |
+| XRPL | xrpl |
+| WORLD CHAIN | worldchain |
+| OSMOSIS | osmosis |
+| ABSTRACT | abstract |
+| VSC | vsc |
+| SONEIUM | soneium |
+| LINEA | linea |
+| OPTIMISM | optimism |
+| ICP | icp |
+| HYPER EVM | hyperevm |
+| BERA CHAIN | berachain |
+| X LAYER | xlayer |
+| CHILIZ | chiliz |
+| SHIBARIUM | shib |
+| HEDERA | hedera |
+| APTOS | aptos |
+| MANTLE | mantle |
+| UNI CHAIN | unichain |
+| SHIDO | shido |
+| FLARE | flare |
+| METIS | metis |
+| DOGE CHAIN | dogechain |
+| ZKSYNC | zksync |
+| STORY | story |
+| FANTOM | fantom |
+| KAIA | kaia |
+| NEAR | near |
+| INK | ink |
+| CELO | celo |
+| PLASMA | plasma |
+| SEI | sei |
+| XDC | xdc |
+| GNOSIS | gnosis |
+| APE CHAIN | apechain |
+| IOTA-EVM | iotaevm |
+| BLAST | blast |
+| INJECTIVE | injective |
+| QUBIC | qubic |
+| ETHERLINK | etherlink |
+| PAW CHAIN | pawchain |
+| FUSE | fuse |
+| U2U | utwou |
+| ODYSSEY | odyssey |
+| SCROLL | scroll |
+| CRONOS-ZKEVM | cronoszkevm |
+| SUPERSEED | superseed |
+| OKTC (FORMER OEC) | oktc |
+| ARBITRUM NOVA | arbitrumnova |
+| BITLAYER | bitlayer |
+| ELYSIUM | elysium |
+| GRAVITY ALPHA | gravityalpha |
+| MODE | mode |
+| MANTA | manta |
+| KAVA | kava |
+| KUJIRA | kujira |
+| POLYGON-ZKEVM | polygonzkevm |
+| UNIT ZERO | units |
+| NIBIRU | nibiruevm |
