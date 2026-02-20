@@ -122,7 +122,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | DOGE CHAIN | dogechain |
 | ZKSYNC | zksync |
 | STORY | story |
-| FANTOM | fantom |
 | KAIA | kaia |
 | NEAR | near |
 | INK | ink |
