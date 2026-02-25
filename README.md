@@ -4,9 +4,7 @@
 
 The **Chart Widget** allows websites to display an embedded trading chart for any pool supported by [DEXTools.io](https://www.dextools.io) app. Chart data is updated in real-time, including the current price in USD.
 
-
-<img src="https://user-images.githubusercontent.com/5698318/290871207-2c2d4ccf-b4fb-449e-a0a1-1653dee423c8.png" width="400" alt="widget screenshot">
-
+<img width="884" height="673" alt="widget screenshot" src="https://github.com/user-attachments/assets/945eb9e8-0323-4ffc-9aea-740c77de1531" />
 
 Chart display is provided by [TradingView](https://www.tradingview.com/)
 
@@ -15,12 +13,12 @@ Chart display is provided by [TradingView](https://www.tradingview.com/)
 
 1) First search your favorite token or pool by address, name... using the [DEXTools search bar](https://www.dextools.io/app/).
 
-<img src="https://user-images.githubusercontent.com/4454927/214916772-39721553-5518-4441-9c5c-49c8283141e6.jpg" width="400" alt="search screenshot">
+<img width="1127" height="315" alt="search screenshot" src="https://github.com/user-attachments/assets/108969c7-596a-4482-8976-f11fef4a1d5b" />
 
 
-2) Then click the **share** option of the [DEXTools pair explorer](https://www.dextools.io/app/en/ether/pair-explorer/0xa29fe6ef9592b5d408cca961d0fb9b1faf497d6d), a pop-up will appear with the code to copy.
+2) Then click the **embed** option of the [DEXTools pair explorer](https://www.dextools.io/app/en/ether/pair-explorer/0xa29fe6ef9592b5d408cca961d0fb9b1faf497d6d), a pop-up will appear to configure the chart and copy the embed code.
 
-<img src="https://user-images.githubusercontent.com/4454927/214918425-85d61426-cd1d-4896-9ea0-01691e8a5f92.jpg" width="400" alt="share panel screenshot">
+<img width="376" height="375" alt="embed screenshot" src="https://github.com/user-attachments/assets/c99decc2-00ac-479b-8898-ca074eb55110" />
 
 
 ## Quick Example
@@ -57,7 +55,7 @@ Please be aware that USE OF CHART WIDGET IFRAME FROM **localhost** WON'T WORK, p
 
 ## Customization options
 
-The widget is configured adjusting following parts and query parameters of this URL:
+The widget is configured by using the embed wizard, but also manually adjusting the following parts and query parameters of this URL:
 
 ```
 https://www.dextools.io/widget-chart/en/<chainId>/pe-light/<pairAddress>?theme=<theme>&chartType=<chartType>&chartResolution=<chartResolution>&drawingToolbars=<drawingToolbars>&tvPlatformColor=<color>&tvPaneColor=<color>&headerColor=<color>&chartInUsd=<chartInUsd>
