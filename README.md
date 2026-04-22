@@ -2,9 +2,9 @@
 
 (This is the public documentation repo of the DEXTools Chart Widget)
 
-The **Chart Widget** allows websites to display an embedded trading chart for any pool supported by [DEXTools.io](https://www.dextools.io) app. Chart data is updated in real-time, including the current price in USD.
+The **Chart Widget** allows websites to display an embedded trading chart for any pool supported by [DEXTools.io](https://www.dextools.io) app. Chart data is updated in real-time, including the current price in USD and trade history.
 
-<img width="882" height="538" alt="widget screenshot" src="https://github.com/user-attachments/assets/54b9c56f-d453-443d-a92d-5cd754de917e" />
+<img width="892" height="535" alt="widget screenshot" src="https://github.com/user-attachments/assets/105f0203-8f4b-4246-8c2a-fe32aea7c9c4" />
 
 Chart display is provided by [TradingView](https://www.tradingview.com/)
 
@@ -58,21 +58,23 @@ Please be aware that USE OF CHART WIDGET IFRAME FROM **localhost** WON'T WORK, p
 The widget is configured by using the embed wizard, but also manually adjusting the following parts and query parameters of this URL:
 
 ```
-https://www.dextools.io/widget-chart/en/<chainId>/pe-light/<pairAddress>?theme=<theme>&chartType=<chartType>&chartResolution=<chartResolution>&drawingToolbars=<drawingToolbars>&tvPlatformColor=<color>&tvPaneColor=<color>&headerColor=<color>&chartInUsd=<chartInUsd>
+https://www.dextools.io/widget-chart/en/<chainId>/pe-light/<pairAddress>?theme=<theme>&chartType=<chartType>&chartResolution=<chartResolution>&drawingToolbars=<drawingToolbars>&tvPlatformColor=<color>&tvPaneColor=<color>&headerColor=<color>&chartInUsd=<chartInUsd>&showTradeHistory=<showTradeHistory>&tradeHistoryColor=<tradeHistoryColor>
 ```
 
-| Parameter       | Values                                                                                                                                                |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| chainId         | blockchain ID (see [list below](#supported-blockchains))                                                                                              |
-| pairAddress     | address of the pool to display                                                                                                                        |
-| theme           | `dark` or `light`                                                                                                                                     |
-| chartType       | 0 = Bar<br/>1 = Candle<br/>2 = Line<br/>3 = Area<br/>8 = Heikin Ashi<br/>9 = hollow candle<br/>10 = Baseline                                          |
-| chartResolution | 1 (minute), 3, 5, 15, 30, 60, 120, 240, 720, 1D, 3D, 1W, 1M                                                                                           |
-| drawingToolbars | `false` or `true`                                                                                                                                     |
-| headerColor     | custom color for the widget header.<br/>**IMPORTANT: should be in hexadecimal format without the `#`**                                                |
-| tvPlatformColor | custom color for the chart background.<br/>**IMPORTANT: should be in hexadecimal format without the `#`**                                             |
-| tvPaneColor     | custom color for the chart controls background.<br/>**IMPORTANT: should be in hexadecimal format without the `#`**                                    |
-| chartInUsd      | `false` to show the "Token/\<chain reference token\>" chart, otherwise (also if this param is not passed) the chart is the "Token/USD" one by default |
+| Parameter        | Values                                                                                                                                                |
+|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| chainId          | blockchain ID (see [list below](#supported-blockchains))                                                                                              |
+| pairAddress      | address of the pool to display                                                                                                                        |
+| theme            | `dark` or `light`                                                                                                                                     |
+| chartType        | 0 = Bar<br/>1 = Candle<br/>2 = Line<br/>3 = Area<br/>8 = Heikin Ashi<br/>9 = hollow candle<br/>10 = Baseline                                          |
+| chartResolution  | 1 (minute), 3, 5, 15, 30, 60, 120, 240, 720, 1D, 3D, 1W, 1M                                                                                           |
+| drawingToolbars  | `false` or `true`                                                                                                                                     |
+| showTradeHistory | `false` or `true`                                                                                                                                     |
+| headerColor      | custom color for the widget header.<br/>**IMPORTANT: should be in hexadecimal format without the `#`**                                                |
+| tvPlatformColor  | custom color for the chart background.<br/>**IMPORTANT: should be in hexadecimal format without the `#`**                                             |
+| tvPaneColor      | custom color for the chart controls background.<br/>**IMPORTANT: should be in hexadecimal format without the `#`**                                    |
+| tradeHistoryColor| custom color for the trade history background.<br/>**IMPORTANT: should be in hexadecimal format without the `#`**                                     |
+| chartInUsd       | `false` to show the "Token/\<chain reference token\>" chart, otherwise (also if this param is not passed) the chart is the "Token/USD" one by default |
 
 
 ## Supported blockchains
