@@ -158,3 +158,4 @@ We add support for new blockchains frequently. This is the current list of avail
 | ANUBIS | anubis |
 | TERRA | terra |
 | ROBINHOOD | robinhood |
+| STABLE | stable |
