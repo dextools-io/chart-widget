@@ -147,7 +147,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | GRAVITY ALPHA | gravityalpha |
 | MODE | mode |
 | MANTA | manta |
-| POLYGON-ZKEVM | polygonzkevm |
 | UNIT ZERO | units |
 | NIBIRU | nibiruevm |
 | ANUBIS | anubis |
