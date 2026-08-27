@@ -119,7 +119,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | SHIDO | shido |
 | FLARE | flare |
 | METIS | metis |
-| DOGE CHAIN | dogechain |
 | ZKSYNC | zksync |
 | STORY | story |
 | KAIA | kaia |
@@ -136,8 +135,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | INJECTIVE | injective |
 | QUBIC | qubic |
 | ETHERLINK | etherlink |
-| PAW CHAIN | pawchain |
-| FUSE | fuse |
 | U2U | utwou |
 | ODYSSEY | odyssey |
 | SCROLL | scroll |
@@ -150,8 +147,6 @@ We add support for new blockchains frequently. This is the current list of avail
 | GRAVITY ALPHA | gravityalpha |
 | MODE | mode |
 | MANTA | manta |
-| KAVA | kava |
-| KUJIRA | kujira |
 | POLYGON-ZKEVM | polygonzkevm |
 | UNIT ZERO | units |
 | NIBIRU | nibiruevm |
