@@ -135,16 +135,9 @@ We add support for new blockchains frequently. This is the current list of avail
 | INJECTIVE | injective |
 | QUBIC | qubic |
 | ETHERLINK | etherlink |
-| U2U | utwou |
-| ODYSSEY | odyssey |
-| SCROLL | scroll |
-| CRONOS-ZKEVM | cronoszkevm |
-| SUPERSEED | superseed |
 | OKTC (FORMER OEC) | oktc |
 | ARBITRUM NOVA | arbitrumnova |
 | BITLAYER | bitlayer |
-| ELYSIUM | elysium |
-| GRAVITY ALPHA | gravityalpha |
 | MODE | mode |
 | MANTA | manta |
 | UNIT ZERO | units |
