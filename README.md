@@ -146,3 +146,4 @@ We add support for new blockchains frequently. This is the current list of avail
 | TERRA | terra |
 | ROBINHOOD | robinhood |
 | STABLE | stable |
+| ARC | arc |
