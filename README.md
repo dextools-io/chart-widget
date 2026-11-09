@@ -147,3 +147,4 @@ We add support for new blockchains frequently. This is the current list of avail
 | ROBINHOOD | robinhood |
 | STABLE | stable |
 | ARC | arc |
+| ELYSIUM | elysium |
