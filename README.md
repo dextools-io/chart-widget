@@ -4,7 +4,7 @@
 
 The **Chart Widget** allows websites to display an embedded trading chart for any pool supported by [DEXTools.io](https://www.dextools.io) app. Chart data is updated in real-time, including the current price in USD and trade history.
 
-<img width="892" height="535" alt="widget screenshot" src="https://github.com/user-attachments/assets/105f0203-8f4b-4246-8c2a-fe32aea7c9c4" />
+<img width="900" height="541" alt="image" src="https://github.com/user-attachments/assets/c97a1870-3365-42fb-b3b0-7c19fb86e74f" />
 
 Chart display is provided by [TradingView](https://www.tradingview.com/)
 
@@ -13,13 +13,11 @@ Chart display is provided by [TradingView](https://www.tradingview.com/)
 
 1) First search your favorite token or pool by address, name... using the [DEXTools search bar](https://www.dextools.io/app/).
 
-<img width="1127" height="315" alt="search screenshot" src="https://github.com/user-attachments/assets/108969c7-596a-4482-8976-f11fef4a1d5b" />
-
+<img width="1161" height="370" alt="image" src="https://github.com/user-attachments/assets/8dfe2c1b-6164-43dc-bb54-8baf230544c7" />
 
 2) Then click the **embed** option of the [DEXTools pair explorer](https://www.dextools.io/app/en/ether/pair-explorer/0xa29fe6ef9592b5d408cca961d0fb9b1faf497d6d), a pop-up will appear to configure the chart and copy the embed code.
 
-<img width="376" height="375" alt="embed screenshot" src="https://github.com/user-attachments/assets/c99decc2-00ac-479b-8898-ca074eb55110" />
-
+<img width="642" height="445" alt="image" src="https://github.com/user-attachments/assets/87095700-79ee-4e1e-ad56-f31d00a5a14d" />
 
 ## Quick Example
 
